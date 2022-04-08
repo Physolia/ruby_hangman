@@ -1,0 +1,5 @@
+--- !ruby/object:Game
+key: madonna
+key_hints: _______
+guessed_letters: []
+guesses_left: 10

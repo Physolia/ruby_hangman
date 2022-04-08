@@ -1,0 +1,9 @@
+--- !ruby/object:Game
+key: flour
+key_hints: _____
+guessed_letters:
+- "\e[35ms\e[0m"
+- "\e[35me\e[0m"
+- "\e[32mo\e[0m"
+- "\e[35mp\e[0m"
+guesses_left: 10
